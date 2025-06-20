@@ -7,7 +7,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: assets/feiji.jpg
+  overlay_image: assets/fj2.jpg
   actions:
     - label: "Download CV"
       url: "assets/Paige_CV.pdf"
