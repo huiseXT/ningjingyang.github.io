@@ -1,0 +1,6 @@
+img.author__avatar {
+  width: 140px;           /* 调整大小，比如 140 像素 */
+  height: 140px;
+  border-radius: 0;     /* 设置圆角：8px 为轻微圆角，50% 为圆形，0 为正方形 */
+  object-fit: cover;      /* 保持比例裁切，防止变形 */
+}
