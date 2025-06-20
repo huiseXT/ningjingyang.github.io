@@ -104,8 +104,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Paige E. Martin"
-  avatar           : "/assets/paige_photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Ning-Jing Yang"
+  avatar           : "/assets/ynj.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Open Science Expert & Enthusiast <br><br> 
                       **Team Lead, User Training** <br> 
                       Australian Earth System Simulator (ACCESS-NRI)"
