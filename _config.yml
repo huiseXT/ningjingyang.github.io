@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :SciencePaige
+  username               :ScienceYNJ
 facebook:
   username               :
   app_id                 :
@@ -105,28 +105,34 @@ analytics:
 # Site Author
 author:
   name             : "Ning-Jing Yang"
-  avatar           : "/assets/ynj.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Open Science Expert & Enthusiast <br><br> 
-                      **Team Lead, User Training** <br> 
-                      Australian Earth System Simulator (ACCESS-NRI)"
-  location         : "Canberra, Australia"
+  avatar           : "/assets/ynj1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  #bio              : "Open Science Expert & Enthusiast <br><br> 
+  #                    **Team Lead, User Training** <br> 
+  #                    Australian Earth System Simulator (ACCESS-NRI)"
+  bio              : "Exploring topological quantum matter, symmetry-protected phases, and spin-layer interplay. <br><br>
+                     **Ph.D. student in Physics** <br>
+                     Fujian Normal University"
+  location         : "Fujian, China"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ms.paigem@gmail.com"
+      url: "mailto:2022457140@qq.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://paigem.github.io"
+      url: "https://huisext.github.io/ningjingyang.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/paigem"
+      url: "https://github.com/huiseXT"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Ningjing-Yang-3/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/paige-martin-phd/"
+      #url: "https://www.linkedin.com/in/paige-martin-phd/"
     - label: "X (formerly Twitter)"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/SciencePaige"
+      #url: "https://twitter.com/SciencePaige"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -139,7 +145,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/SciencePaige
+      #: https://twitter.com/SciencePaige
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -156,6 +162,11 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      custom_css: "/assets/css/mian.scss"
 
 # Reading Files
 include:
