@@ -10,7 +10,7 @@ header:
   overlay_image: assets/fj2.jpg
   actions:
     - label: "Download CV"
-      url: "assets/Paige_CV.pdf"
+      url: "assets/ynj_CV.pdf"
 feature_row:
   - image_path: /assets/research_global_map.png
     alt: "global map"

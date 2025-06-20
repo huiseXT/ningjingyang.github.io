@@ -20,18 +20,19 @@ During my PhD and Postdoc, I used a novel Fourier analysis technique to compute 
 
 ## Publications
 
-Arbic, B.K., S. Elipot, J.M. Brasch, D. Menemenlis, A.L. Ponte, J.F. Shriver, X. Yu, E.D. Zaron, M.H. Alford, M.C. Buijsman, R. Abernathey, D. Garcia, L. Guan, P.E. Martin, and A.D. Nelson (2022), [Near-surface oceanic kinetic energy distributions from drifter observations and numerical models](https://doi.org/10.1029/2022JC018551), _Journal of Geophysical Research: Oceans_, 127, e2022JC018551.
+<strong>Ning-Jing Yang</strong>, Jun-Hao Li, Zhigao Huang, Jian-Min Zhang, [Orbital Hall effect characterizing higher-order topological phase transitions in monolayers of ferromagnetic materials](https://doi.org/10.1103/7bth-zkv6), _Physical Review B_, 111, 235435 (2025).
 
-Light, C.X., Arbic, B.K., Martin, P.E. et al. (2022) [Effects of grid spacing on high-frequency precipitation variance in coupled high-resolution global ocean-atmosphere models](https://doi.org/10.1007/s00382-022-06257-6), _Climate Dynamics_.
+<strong>Ning-Jing Yang</strong>, Hai Yang, Zhigao Huang, Jian-Min Zhang, [Second-order topological insulators in Kekulé-patterned hexagonal biphenylene networks](https://doi.org/10.1063/5.0239997), _Applied Physics Letters_, 126, 033101 (2025).
 
-Loose, N., Abernathey, R., Grooms, I., Busecke, J., Guillaumin, A.P., Yankovsky, E., Marques, G., Steinberg, J.M., Ross, A.S., Khatri, H., Bachman, S.D., Zanna, L., Martin, P. (2022). [GCM-Filters: A Python Package for Diffusion-based Spatial Filtering of Gridded Data](https://joss.theoj.org/papers/10.21105/joss.03947), _Journal of Open Source Software_.
+<strong>Ning-Jing Yang</strong>, Zhigao Huang, Jian-Min Zhang, [Hybrid-order topological phase and transition in 1H transition metal compounds](https://doi.org/10.1063/5.0238775),  _Applied Physics Letters_, 125, 263102 (2024).
 
-Martin, P. E., Arbic, B. K., & Hogg, A. M. (2021). [Drivers of Atmospheric and Oceanic Surface Temperature Variance: A Frequency Domain Approach](https://doi.org/10.1175/JCLI-D-20-0557.1), _Journal of Climate_, 34(10), 3975-3990. 
+<strong>Ning-Jing Yang</strong>, Jian-Min Zhang, [Higher-order topological phase diagram revealed by anomalous Nernst effect in a Janus ScClI monolayer](https://doi.org/10.1103/PhysRevB.109.035423), _Physical Review B_, 109, 035423 (2024). 
 
-Nyadjro, E.S., Arbic, B.K., Buckingham, C.E., Martin, P.E. et al. (2021) [Enhancing Satellite Oceanography-Driven Research in West Africa: a Case Study of Capacity Development in an Underserved Region](https://doi.org/10.1007/s41976-021-00051-4), _Remote Sens Earth Syst Sci_. 
+<strong>Ning-Jing Yang</strong>, Wen-Ti Guo, Hai Yang, Zhigao Huang, Jian-Min Zhang, [Topological phases, local magnetic moments, and spin polarization triggered by C 558-line defects in armchair graphene nanoribbons](https://doi.org/10.1039/D4CP00585F), _Physical Chemistry Chemical Physics_, 26, 17075-17082 (2024). 
 
-Martin, P. E., Arbic, B. K., McC. Hogg, A., Kiss, A. E., Munroe, J. R., & Blundell, J. R. (2020). [Frequency-Domain Analysis of the Energy Budget in an Idealized Coupled Ocean–Atmosphere Model](https://doi.org/10.1175/JCLI-D-19-0118.1), _Journal of Climate_, 33(2), 707-726. 
+Wen-Ti Guo, <strong>NingJing Yang</strong>, Zhigao Huang, Jian-Min Zhang, [Novel magnetic topological insulator FeBi 2 Te 4 with controllable topological quantum phase](https://doi.org/10.1039/D3TC01890C), _Journal of Materials Chemistry C_, 11, 12307-12319 (2023).
 
-Stolbova, V., Martin, P., Bookhagen, B., Marwan, N., and Kurths, J. (2014). [Topology and seasonal evolution of the network of extreme precipitation over the Indian subcontinent and Sri Lanka](https://doi.org/10.5194/npg-21-901-2014), _Nonlin. Processes Geophys._, 21, 901–917.
+<strong>NingJing Yang</strong>, Hai Yang, Guojun Jin, [Interface-induced topological phase and doping-modulated bandgap of two-dimensioanl graphene-like networks](https://iopscience.iop.org/article/10.1088/1674-1056/ac904d), _Chinese Physics B_, 109, 035423 (2023). 
 
-Martin, P., 2014: A Study of Heat Transport and the Runaway Greenhouse Effect using an Idealized Model, Proceedings of the 2014 Summer Program in Geophysical Fluid Dynamics, Woods Hole, MA, Woods Hole Oceanographic Institute
+<strong>NingJing Yang</strong>, Qingyuan Chen, Yafang Xu, Jinlong Luo, Hai Yang, Guojun Jin, [Strain-modulated electronic transport in two-dimensional carbon allotropes](https://doi.org/10.1063/5.0088033), _AIP Advance_, 12, 045102 (2022). 
+
