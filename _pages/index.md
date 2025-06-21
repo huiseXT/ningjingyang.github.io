@@ -39,7 +39,7 @@ feature_row:
 
 Hi, I'm Ning-Jing Yang! 👋 I am a physicist by training, with a background in condensed matter theory ⚛️ and topological quantum materials 🌀. I have years of experience in theoretical modeling, first-principles calculations, and exploring novel topological phases in low-dimensional systems. Through combining symmetry analysis and computational tools, I aim to uncover new quantum phenomena with potential for next-generation electronic and spintronic devices. I envision a future where fundamental physics inspires transformative technologies, and believe that curiosity-driven research is key to this vision.
 
-Click on the links below to learn more about what I love to do!
+Click on the links below to learn more about what I love to do!!!
 
 
 
