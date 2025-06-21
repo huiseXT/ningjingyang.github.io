@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 header:
   overlay_color: "#000"
-  overlay_filter: "0.2"
+  overlay_filter: "0.02"
   overlay_image: assets/fj2.jpg
   actions:
     - label: "Download CV"
