@@ -10,13 +10,14 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
-## Air-Sea Fluxes
+## Research Interests
 
-With colleagues during my postdoc at Lamont-Doherty Earth Observatory in Columbia University, I looked at the effect of spatial resolution on air-sea heat fluxes in global climate models. We have worked collaboratively throughout the project, and co-developed a software package called [aerobulk-python](https://github.com/xgcm/aerobulk-python) that is a Python wrapper for existing Fortran code to carry out the highly complicated air-sea flux bulk formulae used in climate models. The paper is currently in prep, and I will add more details soon!
+Higher-order topology / Hall effects / Quantum geometry / Topological phase transitions / Topological Superconductivity / ferroelectricity and ferromagnetism / Machine learning–assisted modeling
 
-## Energy and Temperature Variance Budgets
 
-During my PhD and Postdoc, I used a novel Fourier analysis technique to compute energy and temperature variance budgets in the ocean, using climate model data. I worked with both idealized and realistic coupled, ocean-atmosphere models, and traced the root mechanisms driving both energy and temperature variance budgets. In both cases, I used open-source, Python code for my analysis, and used both HPC and Cloud computing platforms.
+## Higher-Order Topological Phase Transitions and Hall Effect
+
+During my Ph.D., I focused on higher-order topological phase transitions in two-dimensional quantum materials, driven by the interplay of multiple internal degrees of freedom—including spin, layer, orbital, and valley. By combining tight-binding modeling with first-principles calculations, I revealed how spin–layer locking, interlayer ferroelectric sliding, and magnetic symmetry breaking can induce transitions between topologically distinct phases, giving rise to robust corner-localized states. I systematically explored the thermoelectric and transport signatures accompanying these transitions, including the anomalous Hall effect, the anomalous Nernst effect, and the thermal Hall effect. These Hall-type responses not only serve as effective probes of the topological phase boundaries, but also reflect the entangled nature of multiple degrees of freedom in higher-order topological states.
 
 ## Publications
 
