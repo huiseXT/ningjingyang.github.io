@@ -4,9 +4,9 @@ main:
     url: https://huisext.github.io/ningjingyang.github.io/
   - title: "Research"
     url: /research/
-  - title: "Open Science"
-    url: /open-science/
-  - title: "Capacity Sharing"
-    url: /capacity-sharing/
+  #- title: "Open Science"
+    #url: /open-science/
+  #- title: "Capacity Sharing"
+    #url: /capacity-sharing/
   - title: "CV"
     url: /assets/ynj_CV.pdf
