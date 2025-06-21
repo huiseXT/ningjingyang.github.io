@@ -12,7 +12,7 @@ toc_sticky: true
 
 ## Research Interests
 
-Higher-order topology / Hall effects / Quantum geometry / Topological phase transitions / Topological Superconductivity / ferroelectricity and ferromagnetism / Machine learning–assisted modeling
+Higher-order topology / Hall effects / Quantum geometry / Topological phase transitions / Topological Superconductivity / ferroelectricity and ferromagnetism / Machine learning–assisted modeling.
 
 
 ## Higher-Order Topological Phase Transitions and Hall Effect
