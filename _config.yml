@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Ning-Jing Yang"
 description              : "Ning-Jing's WebPaige"
 url                      : "https://huisext.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/ningjingyang.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : #"/ningjingyang.github.io" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -110,7 +110,7 @@ author:
   #                    **Team Lead, User Training** <br> 
   #                    Australian Earth System Simulator (ACCESS-NRI)"
   bio              : "Exploring topological quantum matter, symmetry-protected phases, and spin-layer interplay. <br><br>
-                     **Ph.D. student in Physics!!!** <br>
+                     **Ph.D. student in Physics** <br>
                      Fujian Normal University"
   location         : "Fuzhou, Fujian, China"
   email            :
