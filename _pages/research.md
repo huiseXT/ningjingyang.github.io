@@ -21,6 +21,8 @@ During my Ph.D., I focused on higher-order topological phase transitions in two-
 
 ## Publications
 
+9. <strong>Ning-Jing Yang</strong>, Jian-Min Zhang, Xiao-Ping Li, Zeying Zhang, Zhi-Ming Yu, Zhigao Huang, and Yugui Yao, Sliding Ferroelectrics Induced Hybrid-Order Topological Phase Transitions, [_Physical Review Letters_, 134, 256602 (2025)](https://doi.org/10.1103/l1n5-1jsm).
+
 8. <strong>Ning-Jing Yang</strong>, Jun-Hao Li, Zhigao Huang, Jian-Min Zhang, Orbital Hall effect characterizing higher-order topological phase transitions in monolayers of ferromagnetic materials, [_Physical Review B_, 111, 235435 (2025)](https://doi.org/10.1103/7bth-zkv6).
 
 7. <strong>Ning-Jing Yang</strong>, Hai Yang, Zhigao Huang, Jian-Min Zhang, Second-order topological insulators in Kekulé-patterned hexagonal biphenylene networks, [_Applied Physics Letters_, 126, 033101 (2025)](https://doi.org/10.1063/5.0239997).
