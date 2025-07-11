@@ -7,11 +7,6 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+@import "custom";     // 你添加的自定义文件
 
-img.author__avatar {
-  width: 150px !important;
-  height: 150px !important;
-  border-radius: 0 !important;      // 正方形头像，如果你想圆形就改成 50%
-  object-fit: cover !important;
-  border: 2px solid #666;           // 可选，加个边框看看效果
-}
+
