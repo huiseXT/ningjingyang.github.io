@@ -25,6 +25,24 @@ During my Ph.D., I focused on higher-order topological phase transitions in two-
 
   <!-- 上文 -->
   <div>
+    <strong>10. </strong><a href="https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5c03191"><strong>Spin-Selective Second-Order Topological Insulators Enabling Cornertronics in Two-Dimensional Altermagnets</strong></a><br>
+    <em style="color: blue;">Nano Letters</em>, <strong>25</strong>: 15495, 2025.<br>
+    <strong>Ning-Jing Yang</strong>, Zhigao Huang, Jian-Min Zhang
+    <ul>
+      <li>Spin-Selective Second-Order Topological Insulators.</li>
+      <li>Symmetry-Breaking–Driven Corner-Polarized Second-Order Topological Insulator.</li>
+    </ul>
+  </div>
+
+  <!-- 下图 -->
+  <img src="{{ '/assets/fm.png' | relative_url }}" alt="PRL Figure" style="width: 300px; border: 1px solid #ccc; margin: 0 auto; display: block; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
+
+</div>
+
+<div style="display: flex; flex-direction: column; gap: 20px;">
+
+  <!-- 上文 -->
+  <div>
     <strong>9. </strong><a href="https://doi.org/10.1103/l1n5-1jsm"><strong>Sliding Ferroelectrics Induced Hybrid-Order Topological Phase Transitions</strong></a><br>
     <em style="color: blue;">Physical Review Letters</em>, <strong>134</strong>: 256602, 2025.<br>
     <strong>Ning-Jing Yang</strong>, Jian-Min Zhang, Xiao-Ping Li, Zeying Zhang, Zhi-Ming Yu, Zhigao Huang, and Yugui Yao
