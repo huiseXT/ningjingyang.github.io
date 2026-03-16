@@ -35,9 +35,26 @@ During my Ph.D., I focused on higher-order topological phase transitions in two-
   </div>
 
   <!-- 下图 -->
-  <img src="{{ '/assets/fm.png' | relative_url }}" alt="PRL Figure" style="width: 300px; border: 1px solid #ccc; margin: 0 auto; display: block; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
+  <div style="position:relative; width:300px; margin:auto;">
 
+  <div style="position:absolute;
+  top:10px;
+  left:-8px;
+  background:rgba(0,17,244,0.7);;
+  color:white;
+  padding:5px 14px;
+  font-size:13px;
+  font-weight:600;">
+  Nano Letters 2025
+  </div>
+
+  <img src="{{ '/assets/NL2025.png' | relative_url }}" 
+       alt="PRL Figure"
+       style="width:300px; border:1px solid #ccc; display:block;
+       box-shadow:2px 2px 5px rgba(0,0,0,0.3);
+       margin-bottom:20px;">
 </div>
+
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
@@ -45,7 +62,7 @@ During my Ph.D., I focused on higher-order topological phase transitions in two-
   <div>
     <strong>9. </strong><a href="https://doi.org/10.1103/l1n5-1jsm"><strong>Sliding Ferroelectrics Induced Hybrid-Order Topological Phase Transitions</strong></a><br>
     <em style="color: blue;">Physical Review Letters</em>, <strong>134</strong>: 256602, 2025.<br>
-    <strong>Ning-Jing Yang</strong>, Jian-Min Zhang, Xiao-Ping Li, Zeying Zhang, Zhi-Ming Yu, Zhigao Huang, and Yugui Yao
+    <strong>Ning-Jing Yang</strong>, Jian-Min Zhang*, Xiao-Ping Li*, Zeying Zhang, Zhi-Ming Yu, Zhigao Huang, and Yugui Yao
     <ul>
       <li>Hybrid-order topological phase transition driven by sliding ferroelectricity in bilayer systems.</li>
       <li>Asymmetric layer-resolved topological evolution enabled by inversion breaking.</li>
@@ -54,9 +71,26 @@ During my Ph.D., I focused on higher-order topological phase transitions in two-
   </div>
 
   <!-- 下图 -->
-  <img src="{{ '/assets/prl_sliding_SHTI.png' | relative_url }}" alt="PRL Figure" style="width: 300px; border: 1px solid #ccc; margin: 0 auto; display: block; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
+  <!-- 下图 -->
+  <div style="position:relative; width:360px; margin:auto;">
 
-</div>
+  <div style="position:absolute;
+  top:10px;
+  left:-8px;
+  background:rgba(0,17,244,0.7);;
+  color:white;
+  padding:5px 14px;
+  font-size:13px;
+  font-weight:600;">
+  Physical Review Letters 2025
+  </div>
+
+  <img src="{{ '/assets/prl_sliding_SHTI.png' | relative_url }}" 
+       alt="PRL Figure"
+       style="width:300px; border:1px solid #ccc; display:block;
+       box-shadow:2px 2px 5px rgba(0,0,0,0.3);
+       margin-bottom:20px;">
+ </div>
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
@@ -72,7 +106,24 @@ During my Ph.D., I focused on higher-order topological phase transitions in two-
     </ul>
   </div>
   <!-- 下图 -->
-  <img src="{{ '/assets/prb_ohc.png' | relative_url }}" alt="PRL Figure" style="width: 550px; border: 1px solid #ccc; margin: 0 auto; display: block; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
+  <div style="position:relative; width:500px; margin:auto;">
+
+  <div style="position:absolute;
+  top:10px;
+  left:-8px;
+  background:rgba(0,17,244,0.7); /* 半透明蓝 #0011F4*/;
+  color:white;
+  padding:5px 14px;
+  font-size:13px;
+  font-weight:600;">
+  Physical Review B 2025
+  </div>
+
+  <img src="{{ '/assets/prb_ohc.png' | relative_url }}" 
+       alt="PRL Figure"
+       style="width:600px; border:1px solid #ccc; display:block;
+       box-shadow:2px 2px 5px rgba(0,0,0,0.3);
+       margin-bottom:20px;">
 </div>
 
 
@@ -90,7 +141,24 @@ During my Ph.D., I focused on higher-order topological phase transitions in two-
     </ul>
   </div>
   <!-- 下图 -->
-  <img src="{{ '/assets/apl_hBPN.png' | relative_url }}" alt="PRL Figure" style="width: 450px; border: 1px solid #ccc; margin: 0 auto; display: block; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
+  <div style="position:relative; width:500px; margin:auto;">
+
+  <div style="position:absolute;
+  top:10px;
+  left:-8px;
+  background:rgba(0,17,244,0.7); /* 半透明蓝 #0011F4*/;
+  color:white;
+  padding:5px 14px;
+  font-size:13px;
+  font-weight:600;">
+  Applied Physics Letters 2025
+  </div>
+
+  <img src="{{ '/assets/apl_hBPN.png' | relative_url }}" 
+       alt="PRL Figure"
+       style="width:600px; border:1px solid #ccc; display:block;
+       box-shadow:2px 2px 5px rgba(0,0,0,0.3);
+       margin-bottom:20px;">
 </div>
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
@@ -107,7 +175,24 @@ During my Ph.D., I focused on higher-order topological phase transitions in two-
     </ul>
   </div>
   <!-- 下图 -->
-  <img src="{{ '/assets/apl_HyOTI.png' | relative_url }}" alt="PRL Figure" style="width: 450px; border: 1px solid #ccc; margin: 0 auto; display: block; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
+  <div style="position:relative; width:500px; margin:auto;">
+
+  <div style="position:absolute;
+  top:10px;
+  left:-8px;
+  background:rgba(0,17,244,0.7); /* 半透明蓝 #0011F4*/;
+  color:white;
+  padding:5px 14px;
+  font-size:13px;
+  font-weight:600;">
+  Applied Physics Letters 2024
+  </div>
+
+  <img src="{{ '/assets/apl_HyOTI.jpg' | relative_url }}" 
+       alt="PRL Figure"
+       style="width:600px; border:1px solid #ccc; display:block;
+       box-shadow:2px 2px 5px rgba(0,0,0,0.3);
+       margin-bottom:20px;">
 </div>
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
@@ -123,7 +208,25 @@ During my Ph.D., I focused on higher-order topological phase transitions in two-
       <li>Study of topological properties in two-dimensional materials.</li>
     </ul>
   </div>
+  <!-- 下图 -->
+  <div style="position:relative; width:400px; margin:auto;">
 
+  <div style="position:absolute;
+  top:10px;
+  left:-8px;
+  background:rgba(0,17,244,0.7); /* 半透明蓝 #0011F4*/;
+  color:white;
+  padding:5px 14px;
+  font-size:13px;
+  font-weight:600;">
+  Physical Review B 2024
+  </div>
+
+  <img src="{{ '/assets/prb_anc.png' | relative_url }}" 
+       alt="PRL Figure"
+       style="width:600px; border:1px solid #ccc; display:block;
+       box-shadow:2px 2px 5px rgba(0,0,0,0.3);
+       margin-bottom:20px;">
 </div>
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
@@ -139,7 +242,25 @@ During my Ph.D., I focused on higher-order topological phase transitions in two-
       <li>Study of defect-driven properties in armchair graphene structures.</li>
     </ul>
   </div>
+  <!-- 下图 -->
+  <div style="position:relative; width:300px; margin:auto;">
 
+  <div style="position:absolute;
+  top:10px;
+  left:-8px;
+  background:rgba(0,17,244,0.7); /* 半透明蓝 #0011F4*/;
+  color:white;
+  padding:5px 14px;
+  font-size:13px;
+  font-weight:600;">
+  Physical Chemistry Chemical Physics 2024
+  </div>
+
+  <img src="{{ '/assets/PCCP2024.png' | relative_url }}" 
+       alt="PRL Figure"
+       style="width:600px; border:1px solid #ccc; display:block;
+       box-shadow:2px 2px 5px rgba(0,0,0,0.3);
+       margin-bottom:20px;">
 </div>
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
@@ -177,5 +298,4 @@ During my Ph.D., I focused on higher-order topological phase transitions in two-
   </div>
 
 </div>
-
 
