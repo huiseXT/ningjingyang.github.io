@@ -1,6 +1,6 @@
 # Paige E. Martin's webPaige!
 
-Welcome to my webpa(i)ge (pun intended)! To view the site, you can go to [paigem.github.io]([https://huisext.github.io/ningjingyang.github.io/]).
+Welcome to my webpa(i)ge (pun intended)! To view the site, you can go to [huisext.github.io]([ningjingyang.github.io/]).
 
 Thanks for visiting!
 
